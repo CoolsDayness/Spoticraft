@@ -6,7 +6,7 @@
 <ul>
 <li>Mute minecraft music when spotify is in the "Playing" state.</li>
 <li>Play X music when X conditions are met (biomes/time ingame/death ect.) configuration</li>
-<li><del>Ingame control screen for users with spotify premium.&nbsp; </del><span style="font-size: 18px; color: #339966;"><em><strong>In 1.1.0!</strong></em></span></li>
+<li><del>Ingame control screen for users with spotify premium.&nbsp; </del><span style="font-size: 18px; color: #339966;"><em><strong>In 1.1.2!</strong></em></span></li>
 </ul>
 <h2 id="screenshots"><span style="color: #339966; font-size: 36px;">Screenshots</span></h2>
 <p>&nbsp;</p>

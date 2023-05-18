@@ -1,5 +1,8 @@
 {
   "key.spotify.open": "Open Spotify Screen",
+  "key.spotify.forwards": "Next Song",
+  "key.spotify.backwards": "Previous Song ",
+  "key.spotify.playpause": "Play/Pause Song",
   "category.spotify.main": "Spoticraft",
 
   "text.config.spoticraft/spoticraft.title": "Spoticraft",
